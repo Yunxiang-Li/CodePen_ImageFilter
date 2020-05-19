@@ -20,7 +20,7 @@ This is a very simple Image filter program made on CodePen.io according to the [
 
 All example images are from [here](https://github.com/Yunxiang-Li/CodePen_ImageFilter/tree/master/Pictures).
 
-![GIF]()
+![GIF](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/GIFs/Image%20FIlter%20exhibition.gif)
 
 ![Exhibition 1](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example1.PNG)
 
