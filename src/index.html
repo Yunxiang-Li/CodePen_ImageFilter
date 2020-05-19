@@ -1,0 +1,65 @@
+<!-- studied from Duke University in Coursera -->
+
+<!-- add script source to enable SimpleImage function -->
+
+<script
+     src = https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js.>
+        </script>
+
+<!-- title one -->
+ <title>
+   Mini-Project
+  </title>
+
+<!-- head one, align its position to center -->
+<h1 align = "center">
+  Filter Fun
+</h1>
+
+<!-- align canvas to the center -->
+<p>
+  <div style = "text-align:center;">
+<canvas id = 'can' >
+</canvas>
+</p>
+
+<!-- head two -->
+<h2>
+Load Image
+</h2 >
+
+  <!--Image file input for the Image.
+  when upload file, run chooseFile function -->
+  <input type = 'file' multiple = 'false'
+   accept = 'image/*' id = 'fileinput' onchange = 'chooseFile()'>
+
+<!-- head three -->
+<h3>
+Choose Filter
+</h3>
+
+<p>
+    <!-- first button for graysacle composite -->
+    <!-- when user click this button, run doGrayscale function -->
+    <input type = 'button' value = 'Grayscale'
+    id = 'button1' onclick = 'doGrayscale()'>
+    <!-- second button for red composite -->
+    <!-- when user click this button, run doRed function -->
+    <input type = 'button' value = 'Red'
+    id = 'button2' onclick = 'doRed()'>
+    <!-- third button for rainbow composite -->
+    <!-- when user click this button, run doRainbow function -->
+    <input type = 'button' value = 'Rainbow'
+    id = 'button3' onclick = 'doRainbow()'>
+    <!-- fourth button for blur composite -->
+    <!-- when user click this button, run doBlur function -->
+    <input type = 'button' value = 'blur'
+    id = 'button4' onclick = 'doBlur()'>
+</p>
+
+    <!-- bottom button for reset -->
+    <!-- when user click this button, run doReset function -->
+    <input type = 'button' value = 'Reset Image'
+    id = 'button3' onclick = 'doReset()'>
+
+</div>

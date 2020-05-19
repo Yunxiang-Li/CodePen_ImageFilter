@@ -1,0 +1,19 @@
+/*style for the canvas*/
+canvas{
+  border:2px solid black;
+  height:300px;
+  width:300px;
+  
+}
+
+/*style for the head one*/
+  h1{
+  font-style: italic;
+  color:blue;
+  margin:20px;
+  }
+
+/*style for the body*/
+body {
+  background-color: lightblue;
+}
