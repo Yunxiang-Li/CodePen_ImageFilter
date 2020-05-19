@@ -14,19 +14,23 @@
 ## Background
 This is a very simple Image filter program made on CodePen.io according to the [Duke University](https://duke.edu/)'s coursera course [Programming Foundations with JavaScript, HTML and CSS](https://www-cloudfront-alias.coursera.org/learn/duke-programming-web/home/welcome).
 
+**You can apply altogether four image filters to your image, they are grayscale image filter, red image filter, rainbow image filter and blur image filter**
+
 ## Exhibition
 
-All example images are from [here]().
+All example images are from [here](https://github.com/Yunxiang-Li/CodePen_ImageFilter/tree/master/Pictures).
 
 ![GIF]()
 
-![Start Page]()
+![Exhibition 1](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example1.PNG)
 
-![Exhibition 1]()
+![Exhibition 2](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example2.PNG)
 
-![Exhibition 2]()
+![Exhibition 3](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example3.PNG)
 
-![Exhibition 3]()
+![Exhibition 4](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example4.PNG)
+
+![Exhibition 5](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example5.PNG)
 
 ## Install
 
