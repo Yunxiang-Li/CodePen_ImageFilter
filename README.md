@@ -21,17 +21,17 @@ This is a very simple Image filter program made on CodePen.io according to the [
 
 All example images are from [here](https://github.com/Yunxiang-Li/CodePen_ImageFilter/tree/master/Pictures).
 
-![GIF](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/GIFs/Image%20FIlter%20exhibition.gif)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/GIFs/Image%20FIlter%20exhibition.gif"/> </div>
 
-![Exhibition 1](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example1.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example1.PNG"/> </div>
 
-![Exhibition 2](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example2.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example2.PNG"/> </div>
 
-![Exhibition 3](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example3.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example3.PNG"/> </div>
 
-![Exhibition 4](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example4.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example4.PNG"/> </div>
 
-![Exhibition 5](https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example5.PNG)
+<div align="center"> <img src="https://github.com/Yunxiang-Li/CodePen_ImageFilter/blob/master/Pictures/example5.PNG"/> </div>
 
 ## Install
 
