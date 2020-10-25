@@ -12,7 +12,7 @@
 - [Maintainers](#Maintainers)
 - [License](#license)
 
-## Background
+## Backgraound
 This is a very simple Image filter program made on CodePen.io according to the [Duke University](https://duke.edu/)'s coursera course [Programming Foundations with JavaScript, HTML and CSS](https://www-cloudfront-alias.coursera.org/learn/duke-programming-web/home/welcome).
 
 **You can apply altogether four image filters to your image, they are grayscale image filter, red image filter, rainbow image filter and blur image filter**
